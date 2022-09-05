@@ -1,0 +1,3 @@
+[submodule "test2-sub"]
+	path = test2-sub
+	url = https://github.com/sicpier/test2-sub.git
